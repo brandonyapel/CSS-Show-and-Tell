@@ -1,0 +1,28 @@
+.parallax {
+    /* Set a specific height */
+    min-height: 768px; 
+    min-width: 1024px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box {
+    height:500px;
+    padding: 100px;
+    font-size: 36px;
+}
+#sistine {
+    background-image: url("Sistine_Chapel_Ceiling_by_Michelangelo.jpg");
+}
+
+#athens {
+    background-image: url("The_School_of_Athens_by_Raphael.jpg");
+}
+
+#supper {
+    background-image: url("The_Last_Supper_1498_Leonardo_da_Vinci.jpg");
+}
