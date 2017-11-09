@@ -1,6 +1,6 @@
 .parallax {
     /* Set a specific height */
-    min-height: 768px; 
+    min-height: 768px;
     min-width: 1024px;
 
     /* Create the parallax scrolling effect */
@@ -11,7 +11,7 @@
 }
 
 .box {
-    height:500px;
+    height:100px;
     padding: 100px;
     font-size: 36px;
 }
